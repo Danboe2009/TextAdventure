@@ -1,0 +1,4 @@
+Players name is Skrin
+Skrin has a strength of 100
+Skrin has these items:  bench pen
+Skrin has these cars : 

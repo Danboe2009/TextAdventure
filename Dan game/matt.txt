@@ -1,0 +1,5 @@
+Players name is matt
+matt has a strength of 5
+matt has these items: 
+pen
+matt has these cars : 

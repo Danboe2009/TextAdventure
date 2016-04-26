@@ -1,0 +1,4 @@
+Players name is dan
+dan has a strength of 3
+dan has these items: 
+dan has these cars : 

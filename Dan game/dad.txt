@@ -1,0 +1,4 @@
+Players name is dad
+dad has a strength of 15
+dad has these items: 
+dad has these cars : 

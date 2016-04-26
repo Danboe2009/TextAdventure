@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=currentPlayer\ enemy
+comment0.target=Battle(Player,\ Monster)
+comment1.params=
+comment1.target=java.lang.String\ fight()
+comment2.params=
+comment2.target=void\ attack()
+comment3.params=player
+comment3.target=void\ getAttacked(Player)
+comment4.params=
+comment4.target=void\ die()
+comment5.params=
+comment5.target=boolean\ getLife()
+comment6.params=
+comment6.target=java.lang.String\ getBattleString()
+comment7.params=
+comment7.target=void\ kill()
+numComments=8
